@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://vertuozssinergie@dev.azure.com/vertuozssinergie/Design%20System/_git/test_npm"
+  }
 }
